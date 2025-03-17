@@ -1,3 +1,23 @@
+
+Steps to Clone the Food Delivery Project
+1) Install Git on your system if you haven’t already.
+2) Open Git Bash and run the following command to clone the repository:
+  git clone https://github.com/its-shalini-gupta/react-food-delivery.git
+3) Wait for the cloning process to complete.
+4) Open the react-food-delivery folder in VS Code.
+5) In the VS Code terminal, run the following command to install dependencies:
+  npm install
+6)Start the React project by running:
+  npm start
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
